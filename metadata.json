@@ -1,0 +1,8 @@
+{
+  "name": "Eazy Ride - Bike & Scooter Rentals",
+  "description": "Rent top-quality bikes and scooters at affordable rates with real-time fleet availability and instant booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
